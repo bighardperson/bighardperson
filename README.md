@@ -17,8 +17,8 @@ My current research focuses on **multimodal foundation models, large language mo
 
 - 🎓 **B.Eng. in Computer Science & Technology**, HITsz, 2023–2027 (expected)
 - 📈 **Weighted Average:** 93.88 / 100
-- 🏅 **Grade Rank:** 25 / 556 (Top 4.5%)
-- 📚 **Major Rank:** 25 / 465 (Top 5.4%)
+- 🏅 **Grade Rank:** Top 4.5%
+- 📚 **Major Rank:** Top 5.4%
 - 🔬 **Research interests:** Multimodal & LLM Security · VLM Red-Teaming · Adversarial Attacks · RAG Privacy · AIGC Deepfake Detection
 
 ## 🔬 Current Research
