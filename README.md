@@ -1,78 +1,82 @@
+<h1 align="center">Haoze Yu (于浩泽)</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2563eb,50:7c3aed,100:db2777&text=Haoze%20Yu&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Computer%20Science%20%40%20HITsz%20%7C%20World%20Models%20%26%20AIGC&descAlignY=58&animation=fadeIn" alt="Haoze Yu profile banner">
+  <strong>Computer Science @ Harbin Institute of Technology, Shenzhen</strong><br>
+  Incoming Ph.D. Student @ Tsinghua University<br>
+  World Models · Audio-Visual Generation & Editing · Multimodal AI Safety
 </p>
 
 <p align="center">
-  <a href="mailto:2023311327@stu.hit.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-2023311327%40stu.hit.edu.cn-EA4335?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/bighardperson"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-bighardperson-181717?logo=github"></a>
-  <img alt="HITsz" src="https://img.shields.io/badge/HITsz-Computer%20Science-2563eb">
-  <img alt="Research" src="https://img.shields.io/badge/Research-World%20Models%20%26%20AIGC-7c3aed">
+  <a href="mailto:2023311327@stu.hit.edu.cn">Email</a> ·
+  <a href="https://github.com/bighardperson">GitHub</a>
 </p>
 
-## 👋 About Me
+## About Me
 
-I am **Haoze Yu (于浩泽)**, an undergraduate student majoring in **Computer Science & Technology** at **Harbin Institute of Technology, Shenzhen (HITsz)**, expected to graduate in **June 2027**.
+Hi! I'm **Haoze Yu**, an undergraduate student in **Computer Science and Technology** at **Harbin Institute of Technology, Shenzhen (HITsz)**. I am an incoming Ph.D. student in Computer Science and Technology at **Tsinghua University**.
 
-My current research focuses on **world models and AIGC**. I am interested in understanding how generative systems model, simulate, and create complex worlds, and in developing reliable multimodal methods for generation, reasoning, evaluation, and trustworthy deployment.
+My research interests lie at the intersection of **world models, controllable multimodal generation, and trustworthy AI**. I am especially interested in how models represent physical interactions, perform precise audio-visual editing, and remain robust under complex multimodal inputs.
 
-- 🎓 **B.Eng. in Computer Science & Technology**, HITsz, 2023–2027 (expected)
-- 📈 **GPA:** 3.94 / 4.0
-- 🔬 **Research interests:** World Models · AIGC · Multimodal AI
+## Education
 
-## 🔬 Current Research
+- **Tsinghua University** — Incoming Ph.D. student, Computer Science and Technology (expected 2032)
+- **Harbin Institute of Technology, Shenzhen** — B.Eng. in Computer Science and Technology (2023–2027, expected)
+  - **GPA:** 3.94/4.0 · **Overall rank:** 10/486 (top 2%)
 
-### World Models & Multimodal Generation
+## Research Interests
 
-I study models that learn representations of environments, dynamics, and interactions, with an interest in simulation, prediction, planning, and multimodal reasoning.
+- **World Models & Physical Reasoning:** Object-centric dynamics, action-conditioned prediction, causal interactions, and physical consistency.
+- **Audio-Visual Generation & Editing:** Controllable generation, disentangled representations, precise cross-modal editing, and preservation of unedited content.
+- **Multimodal AI Safety:** Vision-language model robustness, adversarial defense, privacy-preserving retrieval, and trustworthy evaluation.
 
-### AIGC
+## Current Research
 
-I explore generative models for controllable content creation, evaluation, and reliable deployment across image, video, audio, and language modalities.
+### Object-Centric, Action-Controllable Generative World Models
+*Sep 2026 – Present*
 
-### Multimodal AI Reliability
+Exploring physically consistent prediction in scenes with interacting objects. The project investigates **dynamic interaction graphs, graph neural networks (GNNs), action-effect gating, paired trajectory supervision, and multi-step rollout training**. The experimental design uses **Pymunk** simulations to construct paired action trajectories and study how interventions propagate across objects.
 
-I am interested in robustness, interpretability, and trustworthy evaluation for multimodal generative systems.
+### Compositional Audio-Visual Editing with Disentangled Representations
+*Sep 2026 – Present*
 
-## 🧪 Selected Research Experience
+Investigating how to edit visual and audio properties independently without unintended cross-modal changes. The approach studies **dual-stream encoders, contrastive learning (InfoNCE), content/style disentanglement**, and conditional generation for visual-only, audio-only, and joint editing. Evaluation focuses on controllability, fidelity, synchronization, and preservation of non-target content.
 
-### AIGC Audio-Visual Multimodal Forgery Detection
+## Research Manuscripts & Experience
 
-Project Lead · Harbin Institute of Technology, Shenzhen · Oct 2025 – Mar 2026
+- **DeepGuard: Causal Analysis and Defense of Cross-Layer Visual Injection in DeepStack Models** — *Co-first author; AAAI manuscript.* Studied the security implications of cross-layer visual feature injection in vision-language models and developed a defense based on cross-layer feature consistency.
+- **Balancing Privacy and Utility in PII-Contaminated Retrieval-Augmented Generation** — *Second author; ECML manuscript.* Developed a privacy–utility evaluation framework and a training-free, two-stage safety pipeline for retrieval-augmented generation.
+- **AIGC Audio-Visual Deepfake Detection, Localization, and Explanation** — *Research project, 2026.* Explored multimodal forgery detection with temporal localization and interpretable explanations.
+- **Multi-Stage Malicious Traffic Interception and Analysis** — *Project lead, 2024–2025.* Designed a hierarchical pipeline for malicious traffic detection, classification, and analysis.
 
-- Designed a multi-stage framework for multimodal forgery analysis using visual appearance, motion cues, style evolution, and audio-visual consistency.
-- Focused on real/fake prediction, forged-region localization, and interpretable cause analysis.
+> Manuscript descriptions indicate research work and author contributions, not conference acceptance.
 
-### Multi-Stage Malicious Traffic Interception & Analysis
+## Honors & Awards
 
-Project Lead · Harbin Institute of Technology, Shenzhen · Dec 2024 – Jul 2025
+- **National Scholarship** (2025)
+- **First-Class Academic Scholarship**, HIT (2025)
+- **Top 10 Youth Volunteers**, HIT (2025)
+- **National Second Prize**, National AI Competition for College Students
+- **First Prize**, National Undergraduate Mathematics Competition
+- **Provincial First Prize**, China Undergraduate Mathematical Contest in Modeling
+- **Silver Medal**, Campus ACM Competition
 
-- Designed a hierarchical framework for encrypted and malicious traffic analysis.
-- Combined screening, attack-family classification, attribution, routing, and calibrated fusion.
+## Selected Projects
 
-## 🏆 Honors & Awards
-
-- Three National-level Scholarships
-- First-class Academic Scholarship, Harbin Institute of Technology (2025)
-- Top 10 Youth Volunteers, HIT (2025)
-- National Second Prize, National AI Competition for College Students
-- Provincial First Prize, China Undergraduate Mathematical Contest in Modeling
-
-## 🛠️ Skills
-
-- **Programming:** Python · C++ · C · Java
-- **Machine Learning:** PyTorch · Transformer architectures · Model training · Evaluation & analysis
-- **LLM / Multimodal:** Fine-tuning · Inference · Deployment · RAG pipelines · Multimodal models
-- **Systems:** Linux · Git · Experiment reproduction · Scripting · RISC-V CPU design
-
-## 💻 Selected Engineering Projects
-
-| Project | Description |
+| Repository | Description |
 | --- | --- |
-| multimodal-document-reasoner | Multimodal document understanding and reasoning experiments. |
-| aircraft-war-android | Native Android aircraft battle game with Java, SQLite, networking, audio, and LAN multiplayer. |
-| -CPU- | CPU design project with single-cycle / pipelined implementations and RISC-V-style architecture experiments. |
-| computer-science-skills-collection | Collection of computer science learning materials and engineering practice. |
+| [multimodal-document-reasoner](https://github.com/bighardperson/multimodal-document-reasoner) | PDF document question answering with page-level evidence and verification. |
+| [computer-science-skills-collection](https://github.com/bighardperson/computer-science-skills-collection) | A curated collection of computer science and AI-agent skills and workflows. |
+| [-CPU-](https://github.com/bighardperson/-CPU-) | CPU architecture and RISC-V-related design practice. |
+| [aircraft-war-android](https://github.com/bighardperson/aircraft-war-android) | Android game development and multiplayer engineering practice. |
+
+## Technical Skills
+
+**Languages:** Python · C++ · C · Java  
+**AI & Research:** PyTorch · Transformers · Multimodal Models · Model Training & Evaluation · RAG  
+**Engineering:** Linux · Git · Experiment Reproduction · Model Inference & Deployment
 
 ---
 
-Researching world models, AIGC, and reliable multimodal AI systems.
+<p align="center">
+  <em>Interested in building generative systems that are controllable, physically consistent, and trustworthy.</em>
+</p>
