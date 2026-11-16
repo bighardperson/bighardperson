@@ -50,10 +50,11 @@ In accordance with the confidentiality and disclosure requirements of my researc
 - **National Scholarship** (2025)
 - **First-Class Academic Scholarship**, HIT (2025)
 - **Top 10 Youth Volunteers**, HIT (2025)
+- **Outstanding Student**, HIT (2023–2026, four consecutive years)
+- **Outstanding Communist Youth League Member**, HIT (2023–2026, four consecutive years)
 - **National Second Prize**, National AI Competition for College Students
 - **First Prize**, National Undergraduate Mathematics Competition
 - **Provincial First Prize**, China Undergraduate Mathematical Contest in Modeling
-- **Silver Medal**, Campus ACM Competition
 
 ## Selected Projects
 
