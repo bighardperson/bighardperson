@@ -41,14 +41,9 @@ Exploring physically consistent prediction in scenes with interacting objects. T
 
 Investigating how to edit visual and audio properties independently without unintended cross-modal changes. The approach studies **dual-stream encoders, contrastive learning (InfoNCE), content/style disentanglement**, and conditional generation for visual-only, audio-only, and joint editing. Evaluation focuses on controllability, fidelity, synchronization, and preservation of non-target content.
 
-## Research Manuscripts & Experience
+## Publications
 
-- **DeepGuard: Causal Analysis and Defense of Cross-Layer Visual Injection in DeepStack Models** — *Co-first author; AAAI manuscript.* Studied the security implications of cross-layer visual feature injection in vision-language models and developed a defense based on cross-layer feature consistency.
-- **Balancing Privacy and Utility in PII-Contaminated Retrieval-Augmented Generation** — *Second author; ECML manuscript.* Developed a privacy–utility evaluation framework and a training-free, two-stage safety pipeline for retrieval-augmented generation.
-- **AIGC Audio-Visual Deepfake Detection, Localization, and Explanation** — *Research project, 2026.* Explored multimodal forgery detection with temporal localization and interpretable explanations.
-- **Multi-Stage Malicious Traffic Interception and Analysis** — *Project lead, 2024–2025.* Designed a hierarchical pipeline for malicious traffic detection, classification, and analysis.
-
-> Manuscript descriptions indicate research work and author contributions, not conference acceptance.
+In accordance with the confidentiality and disclosure requirements of my research collaborators, details of my publications and manuscripts are not publicly listed at this time. Thank you for your understanding.
 
 ## Honors & Awards
 
